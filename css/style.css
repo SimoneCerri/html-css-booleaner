@@ -7,7 +7,7 @@ h1{
     font-size: 45px;
 }
 .grey_text{
-    color: lightgray;
+    color: rgba(150, 150, 150, 100);
 }
 
 .azure{
