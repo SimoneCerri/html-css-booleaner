@@ -1,0 +1,15 @@
+#pre{
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+.grey_text{
+    color: lightgray;
+}
+
+.azure{
+    color: rgba(32, 169, 229, 100);
+}
